@@ -1,6 +1,6 @@
 # Sentiment-Analysis-Project
 
-##Overview
+#Overview
 
 This project aims to perform sentiment analysis on textual data using machine learning techniques. The model classifies text into different sentiment categories such as positive, negative, and neutral.
 
