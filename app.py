@@ -45,7 +45,7 @@ def predict_emotion(input_text):
 
 #==================================creating app====================================
 # App
-st.title("Six Human Emotions Detection App")
+st.title("Six Human Emotions Detection")
 st.write("=================================================")
 st.write("['Joy,'Fear','Anger','Love','Sadness','Surprise']")
 st.write("=================================================")
