@@ -1,10 +1,10 @@
- Sentiment-Analysis-Project
+# Sentiment-Analysis-Project
 
-#Overview
+## Overview
 
 This project aims to perform sentiment analysis on textual data using machine learning techniques. The model classifies text into different sentiment categories such as positive, negative, and neutral.
 
-##Features
+## Features
 
 Data preprocessing (tokenization, stopword removal, stemming/lemmatization)
 
@@ -16,7 +16,7 @@ Model evaluation using metrics such as accuracy, F1-score, precision, and recall
 
 Visualization of sentiment trends
 
-##Installation
+## Installation
 
 Clone the repository:
 git clone <repository_url>
@@ -31,7 +31,7 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-##Dependencies
+## Dependencies
 
 List of main dependencies:
 
